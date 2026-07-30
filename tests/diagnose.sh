@@ -12,7 +12,7 @@
 # Requirements:
 #   - adb in PATH
 #   - Phone connected via USB (or wireless ADB) with USB debugging enabled
-#   - sing-box for Android (SFA) running with Clash API on 127.0.0.1:9090
+#   - A VPN client running with a Clash-compatible API on 127.0.0.1:9090
 #     (optional — tests gracefully skip if API is not reachable)
 #
 # Exit codes:

@@ -190,7 +190,7 @@ iAware 同时负责电池优化 / 应用启动管理。禁用后：
 
 15:53:32    VPN 重新启动 (tun0 UP)
 
-15:55       FCM 连接建立: mtalk.google.com:5228 → 美国节点
+15:55       FCM 连接建立: mtalk.google.com:5228 → Google 服务器
             Google 账号添加成功
             ★ 问题解决 ★
 
